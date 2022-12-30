@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49075559796",
+    "project_id": "aplikasi-catatan-keuanga-68b41",
+    "storage_bucket": "aplikasi-catatan-keuanga-68b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49075559796:android:8854d11351469d0e95a021",
+        "android_client_info": {
+          "package_name": "com.example.hitungpengeluaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49075559796-ttq1fonnfrtmafgo52rotpa4ku8ri0c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0AZzRS0uj0C7fuMNEPePSotwqjmOTDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49075559796-ttq1fonnfrtmafgo52rotpa4ku8ri0c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
